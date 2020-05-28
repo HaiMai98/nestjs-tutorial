@@ -1,7 +1,8 @@
 # compiled output
 /dist
 /node_modules
-
+nest-cli-cmd.txt
+package-lock.json
 # Logs
 logs
 *.log
