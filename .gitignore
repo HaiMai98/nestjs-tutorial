@@ -3,6 +3,7 @@
 /node_modules
 nest-cli-cmd.txt
 package-lock.json
+.env
 # Logs
 logs
 *.log
