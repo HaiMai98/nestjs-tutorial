@@ -4,6 +4,7 @@
 nest-cli-cmd.txt
 package-lock.json
 .env
+/src/config/typeorm.config.ts
 # Logs
 logs
 *.log
