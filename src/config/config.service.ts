@@ -40,7 +40,7 @@ class ConfigService {
       password: this.getValue('DB_PASSWORD'),
       database: this.getValue('DB_NAME'),
 
-      entities: [__dirname + '/../**/*.entity.ts'],
+      entities: [__dirname + '/../**/*.entity.{js,ts}'],
       synchronize: true,
     //   migrationsTableName: 'migration',
 
